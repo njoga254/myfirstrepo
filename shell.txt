@@ -6,3 +6,4 @@ chgrp
 chown
 su
 rm
+cat 
