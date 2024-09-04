@@ -1,0 +1,8 @@
+mkdir
+cd
+pwd
+chmod
+chgrp
+chown
+su
+rm
